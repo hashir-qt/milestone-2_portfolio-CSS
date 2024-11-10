@@ -18,23 +18,23 @@ export default function About() {
         <h1>About Me</h1>
         <div className="card">
           <p>
-            "I'm Hashir, a passionate web developer with a keen eye for creating responsive and
+            I am Hashir, a passionate web developer with a keen eye for creating responsive and
             user-friendly websites. With a strong foundation in modern web technologies, I
             specialize in building robust and scalable applications that deliver exceptional user
-            experiences."
+            experiences.
           </p>
           </div>
           <div className="card">
           <p>
-            "My journey in web development has equipped me with a diverse skill set, allowing
-            me to tackle complex challenges and bring innovative ideas to life through code. I'm
+            My journey in web development has equipped me with a diverse skill set, allowing
+            me to tackle complex challenges and bring innovative ideas to life through code. I am
             constantly learning and staying up-to-date with the latest trends in web
-            development to ensure I deliver cutting-edge solutions."
+            development to ensure I deliver cutting-edge solutions.
           </p>
           </div>
           <div className="card">
           <p>
-          "As a web developer, I enjoy tackling complex problems and turning ideas into digital solutions. I have a deep understanding of modern web technologies, including Next.js and Tailwind CSS, and am well-versed in TypeScript for creating secure, maintainable code. I’m dedicated to enhancing web performance, accessibility, and mobile optimization to ensure that every project I take on is not only visually appealing but also fast and inclusive."
+          As a web developer, I enjoy tackling complex problems and turning ideas into digital solutions. I have a deep understanding of modern web technologies, including Next.js and Tailwind CSS, and am well-versed in TypeScript for creating secure, maintainable code. I am dedicated to enhancing web performance, accessibility, and mobile optimization to ensure that every project I take on is not only visually appealing but also fast and inclusive.
           </p>
           </div>
         <h1>My Skills</h1>
