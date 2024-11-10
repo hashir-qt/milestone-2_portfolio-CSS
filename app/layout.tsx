@@ -41,7 +41,7 @@ export default function RootLayout({
           </header>
           <main>{children}</main>
           <footer>
-            <p>© 2024 Hashir's Portfolio. All rights reserved.</p>
+            <p>© 2024 Hashir Static Portfolio. All rights reserved.</p>
           </footer>
         </div>
       </body>
