@@ -213,7 +213,7 @@ span{
   display: flex;
   align-items: center;
   gap: 12rem;
-   margin-top:8rem;
+  margin-top:8rem;
 }
 
 .hero-image {
@@ -405,4 +405,7 @@ span{
   .cta-buttons {
     justify-content: center;
   }
+}
+p{
+  font-size:20px;
 }
